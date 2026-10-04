@@ -18,7 +18,7 @@ sessions.
 
 ## The machine model
 
-**Macintosh Classic (M0420), 1990.** The based on MiSTer **MacPlus**
+**Macintosh Classic (M0420), 1990.** Based on MiSTer **MacPlus**
 core and adapted into a Classic including: its ROM, its memory map, ADB in place of the Plus keyboard, the SWIM floppy controller, and the Classic's PRAM.
 
 | | |
